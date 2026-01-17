@@ -39,6 +39,11 @@
       "flutter": "Flutter",
       "reactNative": "React Native"
     },
+     "safeRide"  : {
+      "title": "Safe Ride: Telemeter",
+      "description": "Wondering how much you leaned into that corner? Measure your lean angle, G-force, and speed instantly with SafeRide and analyze your ride."
+    },
+
     "pranks": {
       "title": "Pranks: No Pop Up",
       "description": "A fun prank application with a smooth user experience and no intrusive pop-up ads."

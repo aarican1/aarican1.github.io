@@ -39,6 +39,11 @@
       "flutter": "Flutter",
       "reactNative": "React Native"
     },
+
+    "safeRide"  : {
+      "title": "Safe Ride: Telemetri",
+      "description": "O viraja ne kadar yattığınızı merak mı ediyorsunuz? SafeRide ile yatış açınızı, G kuvvetinizi ve hızınızı anlık olarak ölçün ve sürüşünüzü analiz edin."
+    },
     "pranks": {
       "title": "Pranks: No Pop Up",
       "description": "Rahatsız edici pop-up reklamlar içermeyen, eğlenceli ve akıcı bir şaka uygulaması."
